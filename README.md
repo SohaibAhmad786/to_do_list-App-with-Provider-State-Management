@@ -6,6 +6,5 @@ how to make custom widget, how to make your own widget,and many more.
 Its two screen App:
 
 ## App video
-<video width="400" controls>
-<source src="https://github.com/SohaibAhmad786/to_do_list-App-with-Provider-State-Management/blob/master/video/Screen-record-184c35100ef.mp4",type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/93024641/204533266-ce9451e4-ae39-4f94-bf91-482646581424.mp4
