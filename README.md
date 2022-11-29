@@ -1,16 +1,11 @@
-# todolist_app
+# To-Do List App
 
-A new Flutter project.
+In this project, I have learnt so many concept like provider state management, how to keep your code clean,
+how to make custom widget, how to make your own widget,and many more.
 
-## Getting Started
+Its two screen App:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App video
+<video width="400" controls>
+<source src="https://github.com/SohaibAhmad786/to_do_list-App-with-Provider-State-Management/blob/master/video/Screen-record-184c35100ef.mp4",type="video/mp4">
+</video>
